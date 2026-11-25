@@ -1,0 +1,4 @@
+Genera una imagen de apoyo para un artículo de blog. Aspect ratio {{ASPECT_RATIO}}.
+Sin texto, sin logos, sin marcas de agua.
+Escena: {{SCENE}}.
+Estilo visual y detalles tecnicos acordes y coherente con el artículo, composición clara, detalle alto.

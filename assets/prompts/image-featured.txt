@@ -1,0 +1,4 @@
+Genera una imagen fotorealista y limpia para portada de artículo. Aspect ratio {{ASPECT_RATIO}}.
+NO incluyas texto, logos ni marcas de agua visibles.
+Escena: {{SCENE}}.
+El estilo e Iluminación natural, composición profesional, detalle alto, colores coherentes con la temática.
